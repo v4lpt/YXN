@@ -1,0 +1,12 @@
+<h1 id="vpt-006-yes-xor-no">VPT-006 - Yes XOR No</h1>
+<h2 id="what-is-this">What is this</h2>
+<p>This app is for situations where you just cannot decide on rational grounds because of missing data or because the decision tree is so complex, a human could just flip a coin, because the computation of all outcomes would not be possible in the remaining life time. If you want to minimize the time you would normally lose in option paralysis, just press the big red button. The answer is a decisive and strict YES XOR NO. And there is also a delay to hinder you from fooling yourself and coming back to biased circles of fruitless thinking. But this is just what I think. Let me know what you think in the comments. ;) </p>
+<p><strong>Everything is calculated locally, nothing is saved. Your data are yours. Nobody will ever learn about your specific love for wearing mismatched socks.</strong></p>
+<h2 id="how-does-it-work">How does it work</h2>
+<ul>
+<li>Ask yourself a Yes/No question in your head</li>
+<li>You click the big red button</li>
+<li>Your answer will appear on the screen</li>
+<li>To prevent cheating, you can&#39;t go back for 5s. </li>
+</ul>
+<p>Created with ❤️ by Valentin</p>
