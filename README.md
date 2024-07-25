@@ -18,7 +18,7 @@ Or download the latest APK from the [Releases Section](https://github.com/v4lpt/
 
 ## Screenshots 
 [<img width=200 alt="Screenshot 1"
-src="fastlane/metadata/en-US/images/phoneScreenshots/1.png?raw=true">](fastlane/metadata/en-US/images/phoneScreenshots/1.png?raw=true)
+src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true">](fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true)
 [<img width=200 alt="Screenshot 2"
 src="fastlane/metadata/en-US/images/phoneScreenshots/2.png?raw=true">](fastlane/metadata/en-US/images/phoneScreenshots/2.png?raw=true)
 [<img width=200 alt="Screenshot 3"
