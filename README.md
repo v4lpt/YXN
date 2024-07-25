@@ -26,10 +26,6 @@ src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true">](f
 [<img width=200 alt="Screenshot 4"
 src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true">](fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true)
 
-
-
-<img src="https://raw.githubusercontent.com/v4lpt/YXN/master/Screenshots/welcome.png" alt="Welcome" width="500" /> <img src="https://raw.githubusercontent.com/v4lpt/YXN/master/Screenshots/yes.png" alt="Yes" width="YXN" /> <img src="https://raw.githubusercontent.com/v4lpt/YXN/master/Screenshots/no.png" alt="No" width="500" /><img src="https://raw.githubusercontent.com/v4lpt/YXN/master/Screenshots/info.png" alt="Info (License) Screen" width="500" />
-
 ## License
 
 This project is licensed under the **GNU General Public License (GPL)**. See the [LICENSE](LICENSE) file for details.
