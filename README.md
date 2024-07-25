@@ -12,7 +12,7 @@ This app is for situations where you just cannot decide on rational grounds beca
 
 ## Screenshots 
 
-<img src="https://raw.githubusercontent.com/v4lpt/YXN/master/Screenshots/welcome.png" alt="Welcome" width="500" /> <img src="https://raw.githubusercontent.com/v4lpt/YXN/master/Screenshots/yes.png" alt="Yes" width="YXN" /> <img src="https://raw.githubusercontent.com/v4lpt/GDP/master/Screenshots/no.png" alt="No" width="500" /><img src="https://raw.githubusercontent.com/v4lpt/YXN/master/Screenshots/info.png" alt="Info (License) Screen" width="500" />
+<img src="https://raw.githubusercontent.com/v4lpt/YXN/master/Screenshots/welcome.png" alt="Welcome" width="500" /> <img src="https://raw.githubusercontent.com/v4lpt/YXN/master/Screenshots/yes.png" alt="Yes" width="YXN" /> <img src="https://raw.githubusercontent.com/v4lpt/YXN/master/Screenshots/no.png" alt="No" width="500" /><img src="https://raw.githubusercontent.com/v4lpt/YXN/master/Screenshots/info.png" alt="Info (License) Screen" width="500" />
 
 ## License
 
