@@ -1,2 +1,1 @@
-A simple android app for assisting you in your decisions
-
+Assists you in your decisions!

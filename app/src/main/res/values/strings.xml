@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">VPT#006-YXN</string>
+    <string name="app_name">VPT#006-YXN - Yes XOR No?   </string>
     <string name="anleitung">This app is for situations where you just cannot decide on rational grounds because of missing data or because the decision tree is so complex, a human could just flip a coin, because the computation of all outcomes would not be possible in the remaining life time. If you want to minimize the time you would normally lose in option paralysis, just press the big red button. The answer is a decisive and strict YES XOR NO. And there is also a delay to hinder you from fooling yourself and coming back to biased circles of fruitless thinking. But this is just what I think. Let me know what you think in the comments. ;) \n\n<b><font color="#efcac2">Everything is calculated locally, nothing is saved. Your data are yours. Nobody will ever learn about your specific love for wearing mismatched socks.</font></b>\n\n</string>
 
     <string name="LICENSE">
