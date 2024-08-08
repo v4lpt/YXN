@@ -4,6 +4,12 @@ This app is for situations where you just cannot decide on rational grounds beca
 
 **Everything is calculated locally, nothing is saved. Your data are yours. Nobody will ever learn about your specific love for wearing mismatched socks.**
 
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/v4lpt.vpt.f006.yxn/)
+
+Or download the latest APK from the [Releases Section](https://github.com/v4lpt/YXN/releases/latest).
+
 ## How does it work 
 - Ask yourself a Yes/No question in your head
 - You click the big red button
@@ -11,8 +17,14 @@ This app is for situations where you just cannot decide on rational grounds beca
 - To prevent cheating, you can't go back for 5s. 
 
 ## Screenshots 
-
-<img src="https://raw.githubusercontent.com/v4lpt/YXN/master/Screenshots/welcome.png" alt="Welcome" width="500" /> <img src="https://raw.githubusercontent.com/v4lpt/YXN/master/Screenshots/yes.png" alt="Yes" width="YXN" /> <img src="https://raw.githubusercontent.com/v4lpt/YXN/master/Screenshots/no.png" alt="No" width="500" /><img src="https://raw.githubusercontent.com/v4lpt/YXN/master/Screenshots/info.png" alt="Info (License) Screen" width="500" />
+[<img width=200 alt="Screenshot 1"
+src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true">](fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true)
+[<img width=200 alt="Screenshot 2"
+src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true">](fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true)
+[<img width=200 alt="Screenshot 3"
+src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true">](fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true)
+[<img width=200 alt="Screenshot 4"
+src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true">](fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true)
 
 ## License
 
