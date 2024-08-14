@@ -4,11 +4,9 @@ This app is for situations where you just cannot decide on rational grounds beca
 
 **Everything is calculated locally, nothing is saved. Your data are yours. Nobody will ever learn about your specific love for wearing mismatched socks.**
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/v4lpt.vpt.f006.yxn/)
-
-Or download the latest APK from the [Releases Section](https://github.com/v4lpt/YXN/releases/latest).
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/v4lpt.vpt.f006.yxn/)
+[<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" alt="Get it on IzzyOnDroid" height="80">](https://apt.izzysoft.de/fdroid/index/apk/v4lpt.vpt.f006.yxn)
+[<img src="https://raw.githubusercontent.com/v4lpt/GDP/master/Badge/github.png" alt="Get it on GitHub" height="80">](https://github.com/v4lpt/YXN/releases/latest)
 
 ## How does it work 
 - Ask yourself a Yes/No question in your head
